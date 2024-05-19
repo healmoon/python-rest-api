@@ -16,7 +16,7 @@ d. написать в readme.md инструкцию, в ней должно б
 
 # для развертывание проекта выполните следующие команды:
 1. склонируйте репозиторий к себе на компьютер или скачайте проект zip файлом.<br/>
-   git clone https://github.com/VannyZav/python-rest-api-HOMEWORK-.git
+   git clone https://github.com/healmoon/python-rest-api.git
 2. создайте виртуальное окружение:<br/>
    python -m venv myenv<br/>
    source myenv/bin/activate  # для Linux и macOS<br/>
