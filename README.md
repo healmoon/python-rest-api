@@ -1,4 +1,4 @@
-# python-rest-api-HOMEWORK
+# python-rest-api
 
 задание:<br/>
 Вам предстоит доработать интернет-магазин.<br/>
